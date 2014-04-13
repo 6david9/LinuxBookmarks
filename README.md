@@ -15,6 +15,12 @@ Bookmarks for learning Linux.
 
 [linux.cn](http://linux.cn/)
 
+[Linuxtoy](http://linuxtoy.org)
+
+[命令行中文网](commandlinefu.cn/)
+
+[LinuxStone - 运维专家网](http://linuxstone.org/)
+
 ## Books
 
 **[Linux From Scratch](http://www.linuxfromscratch.org/)**  
