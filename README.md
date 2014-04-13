@@ -3,7 +3,7 @@
 Bookmarks for learning Linux.
 
 
-## Web site:  
+## Web sites
 
 [The Linux Documentation Project](http://www.tldp.org/)  
 
