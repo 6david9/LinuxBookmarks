@@ -1,4 +1,4 @@
-# LinuxBookmark
+# LinuxBookmarks
 
 Bookmarks for learning Linux.
 
