@@ -35,6 +35,7 @@ Bookmarks for learning Linux.
 
 **[Advanced Bash-Scripting Guide](http://www.tldp.org/LDP/abs/html/abs-guide.html)**  
 *This document is both a tutorial and a reference on shell scripting with Bash. It assumes no previous knowledge of scripting or programming, but progresses rapidly toward an intermediate/advanced level of instruction . . . all the while sneaking in little nuggets of UNIX® wisdom and lore. It serves as a textbook, a manual for self-study, and as a reference and source of knowledge on shell scripting techniques. The exercises and heavily-commented examples invite active reader participation, under the premise that the only way to really learn scripting is to write scripts.* 
+<br /><br />
 
 **[The Linux Command Line](http://linuxcommand.org/tlcl.php)**
 *Designed for the new command line user, this 537-page volume covers the same material as LinuxCommand.org but in much greater detail. In addition to the basics of command line use and shell scripting, The Linux Command Line includes chapters on many common programs used on the command line, as well as more advanced topics.*
