@@ -5,21 +5,21 @@ Bookmarks for learning Linux.
 
 ## Web sites
 
-[The Linux Documentation Project](http://www.tldp.org/)  
+- [The Linux Documentation Project](http://www.tldp.org/)  
 
-- [How-to](http://www.tldp.org/HOWTO/HOWTO-INDEX/categories.html)  
+    - [How-to](http://www.tldp.org/HOWTO/HOWTO-INDEX/categories.html)  
 
-[die.net](http://www.die.net/)    
+- [die.net](http://www.die.net/)    
 
-[man7.org](http://man7.org/)  
+- [man7.org](http://man7.org/)  
 
-[linux.cn](http://linux.cn/)
+- [linux.cn](http://linux.cn/)
 
-[Linuxtoy](http://linuxtoy.org)
+- [Linuxtoy](http://linuxtoy.org)
 
-[命令行中文网](commandlinefu.cn/)
+- [命令行中文网](commandlinefu.cn/)
 
-[LinuxStone - 运维专家网](http://linuxstone.org/)
+- [LinuxStone - 运维专家网](http://linuxstone.org/)
 
 ## Books
 
