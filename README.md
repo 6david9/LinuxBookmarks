@@ -15,11 +15,16 @@ Bookmarks for learning Linux.
 
 - [linux.cn](http://linux.cn/)
 
-- [Linuxtoy](http://linuxtoy.org)
+- [Linuxtoy](http://linuxtoy.org)  
+  LinuxTOY 是一个致力于提供 Linux 相关资讯的专题站点
 
-- [命令行中文网](commandlinefu.cn/)
+- [commandlinefu](http://www.commandlinefu.com/commands/browse)  
+  commandlinefu.com is the place to record those command-line gems that you return to again and again.
 
-- [LinuxStone - 运维专家网](http://linuxstone.org/)
+- [commandlinefu 中文网](http://commandlinefu.cn/)
+
+- [LinuxStone - 运维专家网](http://www.linuxtone.org/)
+  LinuxTone是一个IT互联网技术共同成长平台。为IT互联网行业的企业和个人提供服务。网站目前包括：www「媒体」 、job「招聘」 、bbs「论坛」 。
 
 ## Books
 
